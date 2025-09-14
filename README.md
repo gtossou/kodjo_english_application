@@ -1,4 +1,7 @@
-# Logo
+<div align="center">
+  <img src="1517003570655.jpeg" alt="KodjoEnglish Logo" style="margin-bottom: 20px; max-width: 200px;">
+</div>
+
 # Marketing Automation & Operations Manager
 ## 🟢 Salary
 
@@ -108,12 +111,12 @@ Paste the link of your LinkedIn profile here
 **Which of these tools do you have real, hands-on experience with?**
 *
 You can choose more than one option by selecting an option, then clicking again and choosing another option.
-> **Airtable, Google Sheets, Slack, Typeform, Telegram**
+> **`Airtable`**, **`Google Sheets`**, **`Slack`**, **`Typeform`**, **`Telegram`**
 
 **Other tools you've used**
 *
 If you've used other tools that are not on the above list, please mention them here. If not, comment "n/a"
-> **n8n, Python, Nextcloud, Trello, Zoho, Getresponse**
+> **`n8n`**, **`Python`**, **`Nextcloud`**, **`Trello`**, **`Zoho`**, **`Getresponse`**
 
 **Which one of these tools are you BEST at and why?**
 *
@@ -123,31 +126,34 @@ Be very detailed
 > 
 > I am a volunteer for an African association here in France. I am responsible for their information system. I built for them many tools to automate :
 > 
-> Translation of french documents in english for their magazine (they have french and english version)
-> I created a reminder bot for their events in telegram
+> • Translation of french documents in english for their magazine (they have french and english version)  
+> • I created a reminder bot for their events in telegram
 > 
 > **Airtable + Zapier** 
 > 
 > A few years ago, with a friend we created an event called My cofounder 4 Africa. An initiative to help african entrepreneurs find each other. I built the event registration system with:
 > 
-> Airtable form : to fill for those who will attend
-> Airtable db to store all the data in order to retrieve, filter ...
-> Zapier to send email notifications once the registration is complete and after a few days send them a notification for the main event
+> • Airtable form : to fill for those who will attend  
+> • Airtable db to store all the data in order to retrieve, filter ...  
+> • Zapier to send email notifications once the registration is complete and after a few days send them a notification for the main event
 
 **Describe a complex automation you've built**
 *
 It must be related to marketing
 
-> **Beside my side project, i am a freelance data engineer. . It may not look complex but they involve high level automation techniques:**
+> **Beside my side project, i am a freelance data engineer. It may not look complex but they involve high level automation techniques:**
 > 
-> **I worked for a company in France called Servier inside their Marketing team. They are in Pharma sector and they use Getresponse, a CRM to store contact data about their Healthcare professionals (HCPs). I built for them an analytics platforms that get the raw data from their CRM through an API, store that data inside their data platform and make various segmentations and analytics. The goal is to help Servier teams' reach their HCP's through the world with updated contact data**
+> **I worked for a company in France called Servier inside their Marketing team.**  
+> They are in Pharma sector and they use `Getresponse`, a CRM to store contact data about their Healthcare professionals (HCPs).  
+> I built for them an analytics platforms that get the raw data from their CRM through an API, store that data inside their data platform and make various segmentations and analytics.  
+> The goal is to help Servier teams' reach their HCP's through the world with updated contact data
 > 
 > **The flow looked like this :** 
 > 
-> Get the raw data from the CRM Getresponse
-> Store the data + segment the data regarding various criterias (country, type of Healthcare professional,... )
-> Send automatically the data to the country representative (i handled 20+ countries) based on the segmentation
-> Clean and flag the data to make sure we don't have duplicate, old or not complete information 
+> • Get the raw data from the CRM `Getresponse`  
+> • Store the data + segment the data regarding various criterias (country, type of Healthcare professional,... )  
+> • Send automatically the data to the country representative (i handled 20+ countries) based on the segmentation  
+> • Clean and flag the data to make sure we don't have duplicate, old or not complete information 
 > 
 > **I have 2 more projects i could share but i'll skip them for now. We can disucss about them if we continue the process**
 
@@ -157,17 +163,18 @@ Be very detailed
 
 > **I would create a funnel conversion analysis system. From visit to purchase,**
 > 
-> **i would calculate for each platform which percentage go from one step to the next**
-> **For each platform, analyze for which reason they don't go to the next**
-> **Make some A/B tests. The goal is to test different approaches and see which one help the conversion the best**
+> • **i would calculate for each platform which percentage go from one step to the next**  
+> • **For each platform, analyze for which reason they don't go to the next**  
+> • **Make some A/B tests. The goal is to test different approaches and see which one help the conversion the best**
 > 
-> **For the funnel analysis i can use diagrams like Sankeys for tracking. I already used it in a previous experience not for marketing though**
+> **For the funnel analysis i can use diagrams like Sankeys for tracking.**  
+> I already used it in a previous experience not for marketing though
 
 **What CRMs and email marketing tools have you used?**
 *
 Only mention the ones you are very familiar with
 
-> **Getresponse, Brevo, Zoho**
+> **`Getresponse`**, **`Brevo`**, **`Zoho`**
 
 **What's your comfort level building and managing landing pages or funnels?**
 *
@@ -181,10 +188,10 @@ Be as detailed as possible
 
 > **Many reasons:**
 > 
-> **I'm looking for a full remote role**
-> **I am looking for an opportunity to show all my creativity and entrepreneurial mindset**
-> **As an African, i want to work for initiatives that help my community (even though i know all the audience of KodjoEnglish is not necessarily African)** 
-> **I am currently building EYA ENGLISH, a telegram app that will use AI to deliver english daily tips and quizzes to african francophone audience. I could bring my ideas to Kodjo to help him grow his business**
+> • **I'm looking for a full remote role**  
+> • **I am looking for an opportunity to show all my creativity and entrepreneurial mindset**  
+> • **As an African, i want to work for initiatives that help my community** (even though i know all the audience of KodjoEnglish is not necessarily African)  
+> • **I am currently building `EYA ENGLISH`, a telegram app that will use AI to deliver english daily tips and quizzes to african francophone audience.** I could bring my ideas to Kodjo to help him grow his business
 
 **How do you prefer working?**
 *
@@ -222,14 +229,14 @@ Tell us why you are the perfect candidate for this position
 
 > **The reasons i may not be a goodf fit:**
 > 
-> **I'm not a marketing graduate**
+> • **I'm not a marketing graduate**
 > 
 > **The reasons i'm the best fit:**
 > 
-> **I'm an engineer. I can build high level websites, analytics and automation workflow**
-> **I can build AI solutions. It makes me very dangerous since i can build apps in fields i'm not even an expert. Also i don't use AI as a regular person. I can make advanced solutions using programming languages. By example automatically analyze an audio to give english recommendations**
-> **I'm an entrepreneur. I have the growth mindset. I've been a freelance since many years, And i'm currently building "EYA English" and "le guide tech (platform to find education in tech in africa)"**
-> **I was born and lived in Benin. I speak french fluently and have a very good level in english (890 TOEIC)**
-> **My name is Koffi. It matches with Kodjo :)** 
+> • **I'm an engineer. I can build high level websites, analytics and automation workflow**  
+> • **I can build AI solutions. It makes me very dangerous since i can build apps in fields i'm not even an expert.** Also i don't use AI as a regular person. I can make advanced solutions using programming languages. By example automatically analyze an audio to give english recommendations  
+> • **I'm an entrepreneur. I have the growth mindset.** I've been a freelance since many years, And i'm currently building **`"EYA English"`** and **`"le guide tech"`** (platform to find education in tech in africa)  
+> • **I was born and lived in Benin. I speak french fluently and have a very good level in english (890 TOEIC)**  
+> • **My name is Koffi. It matches with Kodjo :)** 
 
 **Please upload a recent photo of yourself**
